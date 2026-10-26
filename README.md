@@ -1,10 +1,7 @@
-# Continuous Integration and Continuous Delivery (CI/CD) Final Project
+# ci-cd-final-project
 
 ## Project Name
-Continuous Integration and Continuous Delivery (CI/CD)
-
-**Repository:** cicd-final-project
-**Author:** Samruddhi
+ci-cd-final-project
 
 ## Project Description
 This project demonstrates a complete CI/CD workflow using GitHub Actions, Tekton, and OpenShift Pipelines. The application is automatically linted, tested, built, and deployed through the CI/CD pipeline.
